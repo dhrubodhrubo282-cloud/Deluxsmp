@@ -1,0 +1,16 @@
+{
+  "name": "discord-game-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.4.5",
+    "install": "^0.13.0",
+    "npm": "^11.18.0",
+    "sqlite3": "^5.1.7",
+    "start": "^5.1.0"
+  }
+}
